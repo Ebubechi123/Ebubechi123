@@ -1,9 +1,6 @@
-### Hi there 👋, I'm Ebubechi Ihediwa
--------------------------------------
+# Hi there 👋, I'm Ebubechi Ihediwa
 
-A Frontend web and mobile developer
-
-Here are some ideas to get you started:
+### A Frontend web and mobile developer
 
 - 🌱 I’m currently learning Cloud Engineering using Goggle Cloud Platform.
 - 👯 I’m looking to collaborate on several projects and would love your help, if interested please contact me via mail
